@@ -136,7 +136,7 @@ img{
 	border-radius:25px;
 }
 span.web{
-	width:80%;
+	width:90%;
 	animation:web 3s;
 }
 @keyframes web{
@@ -144,7 +144,7 @@ span.web{
 		width:0%;
 	}
 	100%{
-		width:80%;
+		width:90%;
 	}
 }
 span.html{
@@ -160,7 +160,7 @@ span.html{
 	}
 }
 span.css{
-	width:85%;
+	width:90%;
 	animation:css 3s;
 }
 @keyframes css{
@@ -168,7 +168,7 @@ span.css{
 		width:0%;
 	}
 	100%{
-		width:85%;
+		width:90%;
 	}
 }
 span.bootstrap{
@@ -184,10 +184,22 @@ span.bootstrap{
 	}
 }
 span.github{
-	width:90%;
+	width:95%;
 	animation:github 3s;
 }
 @keyframes github{
+	0%{
+		width:0%;
+	}
+	100%{
+		width:95%;
+	}
+}
+span.wordpress{
+	width:90%;
+	animation:web 3s;
+}
+@keyframes wordpress{
 	0%{
 		width:0%;
 	}
@@ -196,7 +208,7 @@ span.github{
 	}
 }
 span.responsive{
-	width:80%;
+	width:95%;
 	animation:responsive 3s;
 }
 @keyframes responsive{
@@ -204,11 +216,11 @@ span.responsive{
 		width:0%;
 	}
 	100%{
-		width:80%;
+		width:95%;
 	}
 }
 span.javascript{
-	width:50%;
+	width:70%;
 	animation:javascript 3s;
 }
 @keyframes javascript{
@@ -216,7 +228,7 @@ span.javascript{
 		width:0%;
 	}
 	100%{
-		width:50%;
+		width:70%;
 	}
 }
 /* span.react{
