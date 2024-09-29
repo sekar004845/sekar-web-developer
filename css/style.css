@@ -250,7 +250,7 @@ span.responsive {
     border: 2px solid #ffb727;
 }
 .project-all{
-    box-shadow: 0 0 10px #ccc;
+    box-shadow: 0 0 5px #e5d8d885;
     padding: 20px;
     margin: 5px;
     border-radius: 10px;
@@ -282,6 +282,12 @@ span.responsive {
     color: #363b42;
     font-size: 16px;
     font-weight: 600;
+}
+.owl-nav{
+    display: none;
+}
+.owl-dots{
+    display: none;
 }
 .footer{
     background: linear-gradient(#000000f2, #000000f2), url(../images/hero-section-background.png) center;
