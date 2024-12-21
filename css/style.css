@@ -235,7 +235,11 @@ span.tailwind {
     animation: web 3s;
 }
 span.javascript {
-    width: 60%;
+    width: 65%;
+    animation: web 3s;
+}
+span.php {
+    width: 50%;
     animation: web 3s;
 }
 span.wordpress {
