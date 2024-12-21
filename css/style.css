@@ -234,20 +234,20 @@ span.tailwind {
     width: 95%;
     animation: web 3s;
 }
+span.wordpress {
+    width: 60%;
+    animation: web 3s;
+}
+span.responsive {
+    width: 95%;
+    animation: web 3s;
+}
 span.javascript {
     width: 65%;
     animation: web 3s;
 }
 span.php {
     width: 50%;
-    animation: web 3s;
-}
-span.wordpress {
-    width: 50%;
-    animation: web 3s;
-}
-span.responsive {
-    width: 95%;
     animation: web 3s;
 }
 .skills-content:hover {
