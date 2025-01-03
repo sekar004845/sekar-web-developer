@@ -246,10 +246,10 @@ span.javascript {
     width: 65%;
     animation: web 3s;
 }
-span.php {
+/* span.php {
     width: 50%;
     animation: web 3s;
-}
+} */
 .skills-content:hover {
     border: 2px solid #ffb727;
 }
