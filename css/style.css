@@ -235,7 +235,7 @@ span.tailwind {
     animation: web 3s;
 }
 span.wordpress {
-    width: 60%;
+    width: 80%;
     animation: web 3s;
 }
 span.responsive {
@@ -243,11 +243,11 @@ span.responsive {
     animation: web 3s;
 }
 span.javascript {
-    width: 65%;
+    width: 75%;
     animation: web 3s;
 }
 span.php {
-    width: 30%;
+    width: 40%;
     animation: web 3s;
 }
 .skills-content:hover {
