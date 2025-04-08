@@ -250,6 +250,10 @@ span.php {
     width: 40%;
     animation: web 3s;
 }
+span.mysql {
+    width: 60%;
+    animation: web 3s;
+}
 .skills-content:hover {
     border: 2px solid #ffb727;
 }
