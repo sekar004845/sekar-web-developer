@@ -262,7 +262,7 @@ span.mysql {
     border: 2px solid #ffb727;
 }
 .project-all{
-    box-shadow: 0 0 5px #e5d8d885;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     padding: 20px;
     margin: 5px;
     border-radius: 10px;
