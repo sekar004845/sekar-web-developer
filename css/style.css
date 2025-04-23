@@ -243,7 +243,7 @@ span.wordpress {
     animation: web 3s;
 }
 span.woocommerce{
-    width: 70%;
+    width: 60%;
     animation: web 3s;
 }
 span.javascript {
@@ -306,4 +306,16 @@ span.mysql {
     background-size: cover;
     background-repeat: no-repeat;
     padding: 20px 0px 15px 0px;
+}
+.code-wordpress-categories li{
+    padding: 5px;
+}
+.code-wordpress-categories .nav-link {
+    color: #000 !important;
+    background-color: #93a12187 !important;
+    padding: 10px 25px 10px 25px;
+}
+.code-wordpress-categories .nav-link.active, .nav-pills .show>.nav-link {
+    color: #ffffff !important;
+    background-color: #ffa62b !important;
 }
