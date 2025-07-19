@@ -239,7 +239,7 @@ span.responsive {
     animation: web 3s;
 }
 span.wordpress {
-    width: 80%;
+    width: 90%;
     animation: web 3s;
 }
 /* span.woocommerce{
@@ -261,8 +261,9 @@ span.mysql {
 .skills-content:hover {
     border: 2px solid #ffb727;
 }
-.project-all{
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+.project-all {
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+    border: 1px solid #ccc;
     padding: 20px;
     margin: 5px;
     border-radius: 10px;
