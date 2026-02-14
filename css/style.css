@@ -250,12 +250,16 @@ span.javascript {
     width: 80%;
     animation: web 3s;
 }
+span.react-js{
+    width: 65%;
+    animation: web 3s;
+}
 span.php {
     width: 40%;
     animation: web 3s;
 }
 span.mysql {
-    width: 60%;
+    width: 50%;
     animation: web 3s;
 }
 .skills-content:hover {
